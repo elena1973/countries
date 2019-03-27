@@ -1,0 +1,64 @@
+
+h1{
+    text-align: left;
+    color: black
+}
+
+#container{
+    text-align: left;
+}
+
+
+
+#countryspot{
+    border: black solid 2px;
+    width: 400px;
+    height: 250px;
+    font-size: 17px;
+    margin: 10px;
+    position: relative;
+    background-color: lightgray
+
+}
+
+#nameArea{
+    position: relative;
+    margin: 20px;
+    left:125px;
+    height: 20px;
+    width:100px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+
+#topLevelDomainArea {
+    position: relative;
+    margin: 20px;
+    left:125px;
+    word-wrap: break-word;
+}
+
+#capitalArea {
+    position: relative;
+    margin: 20px;
+    left:125px;
+}
+
+#currenciesArea {
+    position: relative;
+    margin: 20px;
+    top: 25px;
+    overflow: auto;
+
+
+}
+
+#flagArea {
+    position: absolute;
+    width: 100px;
+    height:100px;
+    top:30px;
+    left: 30px;
+    bottom: 175px;
+
+}
